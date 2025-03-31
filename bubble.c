@@ -5,7 +5,7 @@
 void bubblesort(int a[], int length);
 
 int main()
-{
+{ printf("Hello");
 	int a[] = {3,2,5,1,23,0,7,9,10,6};
 	int length = 10;
 	bubblesort(a,length);
